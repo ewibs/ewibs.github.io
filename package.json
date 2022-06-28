@@ -1,0 +1,12 @@
+{
+    "version": "0.0.1",
+    "description": ".ewibs website",
+    "name": ".ewibs website",
+    "scripts": {
+        "build": "ewibs ./website.ewibs"
+    },
+    "devDependencies": {
+        "@ewibs/assembly": "^0.2.4",
+        "@ewibs/cli": "^0.0.2"
+    }
+}
