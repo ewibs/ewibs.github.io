@@ -3,10 +3,11 @@
     "description": ".ewibs website",
     "name": ".ewibs website",
     "scripts": {
-        "build": "ewibs ./website.ewibs"
+        "build": "ewibs ./website.ewibs",
+        "start": "ewibs watch ./website.ewibs"
     },
     "devDependencies": {
-        "@ewibs/assembly": "^0.2.4",
-        "@ewibs/cli": "^0.0.2"
+        "@ewibs/assembly": "^0.2.5",
+        "@ewibs/cli": "^0.1.0"
     }
 }
