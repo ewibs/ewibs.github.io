@@ -1,7 +1,7 @@
 <html>
   <head>
     <title>index</title>
-    <base href="./" />
+    <base href="/website" />
     <meta
       name="viewport"
       content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no"
@@ -11,83 +11,30 @@
     <link rel="stylesheet" href="assets/index.css" />
   </head>
   <body class="landing">
-    <!--
-        Component: landing
-        IO: {"inputs":{}}
-        Comp Data: {"meta":{"page":{"url":"index","styles":{"base":{"text":{"color":"","textAlign":"left","fontWeight":"400"},"spacings":{"position":{},"zIndex":12,"padding":{},"margin":{},"size":{}},"alignment":{"type":"flex","direction":"column","justifyContent":"center","basis":"100%","alignContent":"center"},"background":[]},"mediaQueries":[{"features":[{"feature":"width","min":"768px"}],"styles":{"text":{"color":""},"spacings":{"position":{"top":""},"margin":{"top":""},"size":{"width":""}},"alignment":{"inline":false}}}]}},"name":"Landing pages"},"body":{"text":"","children":[{"ref":"navigation","io":{"inputs":{}}},{"ref":"title","io":{"inputs":{}},"children":[]},{"tagName":"div","text":"Test #1","children":[{"tagName":"p","styles":{"base":{"text":{"color":"green","lineHeight":"2","textAlign":"right"}}},"text":"Test"},{"tagName":"div","text":"Test #3","styles":{"base":{"text":{"lineHeight":"3","verticalAlign":"top","fontFamily":"arial","fontWeight":"700"},"alignment":{"type":"block","inline":true}},"mediaQueries":[{"features":[{"feature":"width","max":"1024px"}],"styles":{"text":{"color":"green"},"alignment":{"type":"inline","inline":true,"rowGap":"123","columnGap":"3131"}}}]},"children":[]},{"tagName":"hr","text":"","children":[]},{"tagName":"br","children":[],"styles":{"base":{},"mediaQueries":[{"features":[{"feature":"width","min":"756px"}],"styles":{"alignment":{"type":"block"}}}]}},{"tagName":"p","text":"Simon Rothert","styles":{"base":{"text":{"color":"purple"}}}}],"styles":{"base":{"background":[{"color":"red"}],"text":{"color":"black"},"border":{"radii":{"top-right":"0.5rem"}},"spacings":{"padding":{},"margin":{"left":"4rem"}},"alignment":{"type":"flex","basis":"1","direction":"column"}}}},{"ref":"footer","io":{"inputs":{}}}]}}
-      -->
-
-    <!-- selector: .landing -->
-
-    <!--
-        Component: navigation
-        IO: {"inputs":{}}
-        Comp Data: {"meta":{"name":"Navigation"},"body":{"text":"","children":[{"tagName":"p","text":".ewibs"}],"tagName":"div","styles":{"base":{"spacings":{"padding":{},"size":{},"margin":{}},"alignment":{"type":"flex","direction":"row","justifyContent":"flex-start","alignContent":"center"},"background":[{"color":""}],"border":{"radii":{}}},"mediaQueries":[{"features":[{"feature":"width","max":"1024px"},{"feature":"width","operator":"and","min":"767px"}],"styles":{"border":{"radii":{"top-left":"0px"}}}}]}}}
-      -->
-
-    <!-- selector: .navigation -->
     <div>
-      <!-- selector: .navigation >
-          p:nth-of-type(1) -->
       <p>.ewibs</p>
     </div>
 
-    <!--
-        Component: title
-        IO: {"inputs":{}}
-        Comp Data: {"meta":{"name":"Title"},"body":{"text":"Coming soon","tagName":"h1","styles":{"base":{"text":{"color":"","fontFamily":"Octane","fontWeight":"100"}}}}}
-      -->
-
-    <!-- selector: .title -->
     <h1>Coming soon</h1>
 
-    <!-- selector: .landing >
-          div:nth-of-type(1) -->
     <div>
       Test #1
 
-      <!-- selector: .landing >
-          div:nth-of-type(1) >
-          p:nth-of-type(1) -->
       <p>Test</p>
 
-      <!-- selector: .landing >
-          div:nth-of-type(1) >
-          div:nth-of-type(1) -->
       <div>Test #3</div>
 
-      <!-- selector: .landing >
-          div:nth-of-type(1) >
-          hr:nth-of-type(1) -->
       <hr />
 
-      <!-- selector: .landing >
-          div:nth-of-type(1) >
-          br:nth-of-type(1) -->
       <br />
 
-      <!-- selector: .landing >
-          div:nth-of-type(1) >
-          p:nth-of-type(2) -->
       <p>Simon Rothert</p>
     </div>
 
-    <!--
-        Component: footer
-        IO: {"inputs":{}}
-        Comp Data: {"meta":{"name":"Footer"},"body":{"text":"","children":[{"tagName":"p","text":"Links ","children":[{"tagName":"a","text":"Github","attributes":{"href":"https://github.com/"},"styles":{"base":{"spacings":{"margin":{}}}}}]}],"tagName":"footer","styles":{"base":{"spacings":{"padding":{},"margin":{"top":"auto"}}}}}}
-      -->
-
-    <!-- selector: .footer -->
     <footer>
-      <!-- selector: .footer >
-          p:nth-of-type(1) -->
       <p>
         Links
 
-        <!-- selector: .footer >
-          p:nth-of-type(1) >
-          a:nth-of-type(1) -->
         <a href="https://github.com/">Github</a>
       </p>
     </footer>
