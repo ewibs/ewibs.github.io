@@ -1,1 +1,1 @@
-[link](https://ewibs.github.io/website/)
+[link](https://ewibs.github.io/)

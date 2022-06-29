@@ -1,7 +1,6 @@
 {
     "assets": "assets",
     "root": "src",
-    "base": "website",
     "dist": "dist",
     "globalStyle": {
         "normalize": true,
