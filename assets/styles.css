@@ -354,22 +354,22 @@ template {
 
 @font-face {
   font-family: Octane;
-  src: url(Octane%20Variable%20Free%20Font/Webfonts/Octane-Black.eot)
+  src: url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-Black.eot)
       format("embedded-opentype"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-Black.woff)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-Black.woff)
       format("woff"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-Black.woff2)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-Black.woff2)
       format("woff2");
   font-weight: 900;
 }
 
 @font-face {
   font-family: Octane;
-  src: url(Octane%20Variable%20Free%20Font/Webfonts/Octane-BlackCondensed.eot)
+  src: url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-BlackCondensed.eot)
       format("embedded-opentype"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-BlackCondensed.woff)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-BlackCondensed.woff)
       format("woff"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-BlackCondensed.woff2)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-BlackCondensed.woff2)
       format("woff2");
   font-stretch: condensed;
   font-weight: 900;
@@ -377,11 +377,11 @@ template {
 
 @font-face {
   font-family: Octane;
-  src: url(Octane%20Variable%20Free%20Font/Webfonts/Octane-BlackExtended.eot)
+  src: url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-BlackExtended.eot)
       format("embedded-opentype"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-BlackExtended.woff)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-BlackExtended.woff)
       format("woff"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-BlackExtended.woff2)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-BlackExtended.woff2)
       format("woff2");
   font-stretch: expanded;
   font-weight: 900;
@@ -389,22 +389,22 @@ template {
 
 @font-face {
   font-family: Octane;
-  src: url(Octane%20Variable%20Free%20Font/Webfonts/Octane-Bold.eot)
+  src: url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-Bold.eot)
       format("embedded-opentype"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-Bold.woff)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-Bold.woff)
       format("woff"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-Bold.woff2)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-Bold.woff2)
       format("woff2");
   font-weight: 700;
 }
 
 @font-face {
   font-family: Octane;
-  src: url(Octane%20Variable%20Free%20Font/Webfonts/Octane-BoldCondensed.eot)
+  src: url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-BoldCondensed.eot)
       format("embedded-opentype"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-BoldCondensed.woff)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-BoldCondensed.woff)
       format("woff"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-BoldCondensed.woff2)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-BoldCondensed.woff2)
       format("woff2");
   font-stretch: condensed;
   font-weight: 700;
@@ -412,11 +412,11 @@ template {
 
 @font-face {
   font-family: Octane;
-  src: url(Octane%20Variable%20Free%20Font/Webfonts/Octane-BoldExtended.eot)
+  src: url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-BoldExtended.eot)
       format("embedded-opentype"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-BoldExtended.woff)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-BoldExtended.woff)
       format("woff"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-BoldExtended.woff2)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-BoldExtended.woff2)
       format("woff2");
   font-stretch: expanded;
   font-weight: 700;
@@ -424,33 +424,33 @@ template {
 
 @font-face {
   font-family: Octane;
-  src: url(Octane%20Variable%20Free%20Font/Webfonts/Octane-Condensed.eot)
+  src: url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-Condensed.eot)
       format("embedded-opentype"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-Condensed.woff)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-Condensed.woff)
       format("woff"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-Condensed.woff2)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-Condensed.woff2)
       format("woff2");
   font-stretch: condensed;
 }
 
 @font-face {
   font-family: Octane;
-  src: url(Octane%20Variable%20Free%20Font/Webfonts/Octane-DemiBold.eot)
+  src: url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-DemiBold.eot)
       format("embedded-opentype"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-DemiBold.woff)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-DemiBold.woff)
       format("woff"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-DemiBold.woff2)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-DemiBold.woff2)
       format("woff2");
   font-weight: 600;
 }
 
 @font-face {
   font-family: Octane;
-  src: url(Octane%20Variable%20Free%20Font/Webfonts/Octane-DemiBoldCondensed.eot)
+  src: url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-DemiBoldCondensed.eot)
       format("embedded-opentype"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-DemiBoldCondensed.woff)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-DemiBoldCondensed.woff)
       format("woff"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-DemiBoldCondensed.woff2)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-DemiBoldCondensed.woff2)
       format("woff2");
   font-stretch: condensed;
   font-weight: 600;
@@ -458,11 +458,11 @@ template {
 
 @font-face {
   font-family: Octane;
-  src: url(Octane%20Variable%20Free%20Font/Webfonts/Octane-DemiBoldExtended.eot)
+  src: url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-DemiBoldExtended.eot)
       format("embedded-opentype"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-DemiBoldExtended.woff)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-DemiBoldExtended.woff)
       format("woff"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-DemiBoldExtended.woff2)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-DemiBoldExtended.woff2)
       format("woff2");
   font-stretch: expanded;
   font-weight: 600;
@@ -470,33 +470,33 @@ template {
 
 @font-face {
   font-family: Octane;
-  src: url(Octane%20Variable%20Free%20Font/Webfonts/Octane-Extended.eot)
+  src: url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-Extended.eot)
       format("embedded-opentype"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-Extended.woff)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-Extended.woff)
       format("woff"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-Extended.woff2)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-Extended.woff2)
       format("woff2");
   font-stretch: expanded;
 }
 
 @font-face {
   font-family: Octane;
-  src: url(Octane%20Variable%20Free%20Font/Webfonts/Octane-Light.eot)
+  src: url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-Light.eot)
       format("embedded-opentype"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-Light.woff)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-Light.woff)
       format("woff"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-Light.woff2)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-Light.woff2)
       format("woff2");
   font-weight: 300;
 }
 
 @font-face {
   font-family: Octane;
-  src: url(Octane%20Variable%20Free%20Font/Webfonts/Octane-LightCondensed.eot)
+  src: url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-LightCondensed.eot)
       format("embedded-opentype"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-LightCondensed.woff)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-LightCondensed.woff)
       format("woff"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-LightCondensed.woff2)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-LightCondensed.woff2)
       format("woff2");
   font-stretch: condensed;
   font-weight: 300;
@@ -504,11 +504,11 @@ template {
 
 @font-face {
   font-family: Octane;
-  src: url(Octane%20Variable%20Free%20Font/Webfonts/Octane-LightExtended.eot)
+  src: url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-LightExtended.eot)
       format("embedded-opentype"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-LightExtended.woff)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-LightExtended.woff)
       format("woff"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-LightExtended.woff2)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-LightExtended.woff2)
       format("woff2");
   font-stretch: expanded;
   font-weight: 300;
@@ -516,33 +516,33 @@ template {
 
 @font-face {
   font-family: Octane;
-  src: url(Octane%20Variable%20Free%20Font/Webfonts/Octane-Regular.eot)
+  src: url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-Regular.eot)
       format("embedded-opentype"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-Regular.woff)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-Regular.woff)
       format("woff"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-Regular.woff2)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-Regular.woff2)
       format("woff2");
   font-weight: 400;
 }
 
 @font-face {
   font-family: Octane;
-  src: url(Octane%20Variable%20Free%20Font/Webfonts/Octane-Thin.eot)
+  src: url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-Thin.eot)
       format("embedded-opentype"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-Thin.woff)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-Thin.woff)
       format("woff"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-Thin.woff2)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-Thin.woff2)
       format("woff2");
   font-weight: 100;
 }
 
 @font-face {
   font-family: Octane;
-  src: url(Octane%20Variable%20Free%20Font/Webfonts/Octane-ThinCondensed.eot)
+  src: url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-ThinCondensed.eot)
       format("embedded-opentype"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-ThinCondensed.woff)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-ThinCondensed.woff)
       format("woff"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-ThinCondensed.woff2)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-ThinCondensed.woff2)
       format("woff2");
   font-stretch: condensed;
   font-weight: 100;
@@ -550,11 +550,11 @@ template {
 
 @font-face {
   font-family: Octane;
-  src: url(Octane%20Variable%20Free%20Font/Webfonts/Octane-ThinExtended.eot)
+  src: url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-ThinExtended.eot)
       format("embedded-opentype"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-ThinExtended.woff)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-ThinExtended.woff)
       format("woff"),
-    url(Octane%20Variable%20Free%20Font/Webfonts/Octane-ThinExtended.woff2)
+    url(assets/Octane%20Variable%20Free%20Font/Webfonts/Octane-ThinExtended.woff2)
       format("woff2");
   font-stretch: expanded;
   font-weight: 100;
@@ -562,15 +562,18 @@ template {
 
 @font-face {
   font-family: NKDuyMono;
-  src: url(NKDuy_mono/fonts/webfonts/NKDuyMono-Bold.woff2) format("woff2"),
-    url(NKDuy_mono/fonts/webfonts/NKDuyMono-ExtraBold.woff2) format("woff2");
+  src: url(assets/NKDuy_mono/fonts/webfonts/NKDuyMono-Bold.woff2)
+      format("woff2"),
+    url(assets/NKDuy_mono/fonts/webfonts/NKDuyMono-ExtraBold.woff2)
+      format("woff2");
   font-weight: 700;
 }
 
 @font-face {
   font-family: NKDuyMono;
-  src: url(NKDuy_mono/fonts/webfonts/NKDuyMono-BoldItalic.woff2) format("woff2"),
-    url(NKDuy_mono/fonts/webfonts/NKDuyMono-ExtraBoldItalic.woff2)
+  src: url(assets/NKDuy_mono/fonts/webfonts/NKDuyMono-BoldItalic.woff2)
+      format("woff2"),
+    url(assets/NKDuy_mono/fonts/webfonts/NKDuyMono-ExtraBoldItalic.woff2)
       format("woff2");
   font-style: italic;
   font-weight: 700;
@@ -578,13 +581,14 @@ template {
 
 @font-face {
   font-family: NKDuyMono;
-  src: url(NKDuy_mono/fonts/webfonts/NKDuyMono-ExtraLight.woff2) format("woff2");
+  src: url(assets/NKDuy_mono/fonts/webfonts/NKDuyMono-ExtraLight.woff2)
+    format("woff2");
   font-weight: 200;
 }
 
 @font-face {
   font-family: NKDuyMono;
-  src: url(NKDuy_mono/fonts/webfonts/NKDuyMono-ExtraLightItalic.woff2)
+  src: url(assets/NKDuy_mono/fonts/webfonts/NKDuyMono-ExtraLightItalic.woff2)
     format("woff2");
   font-style: italic;
   font-weight: 200;
@@ -592,19 +596,21 @@ template {
 
 @font-face {
   font-family: NKDuyMono;
-  src: url(NKDuy_mono/fonts/webfonts/NKDuyMono-Italic.woff2) format("woff2");
+  src: url(assets/NKDuy_mono/fonts/webfonts/NKDuyMono-Italic.woff2)
+    format("woff2");
   font-style: italic;
 }
 
 @font-face {
   font-family: NKDuyMono;
-  src: url(NKDuy_mono/fonts/webfonts/NKDuyMono-Light.woff2) format("woff2");
+  src: url(assets/NKDuy_mono/fonts/webfonts/NKDuyMono-Light.woff2)
+    format("woff2");
   font-weight: 300;
 }
 
 @font-face {
   font-family: NKDuyMono;
-  src: url(NKDuy_mono/fonts/webfonts/NKDuyMono-LightItalic.woff2)
+  src: url(assets/NKDuy_mono/fonts/webfonts/NKDuyMono-LightItalic.woff2)
     format("woff2");
   font-style: italic;
   font-weight: 300;
@@ -612,13 +618,14 @@ template {
 
 @font-face {
   font-family: NKDuyMono;
-  src: url(NKDuy_mono/fonts/webfonts/NKDuyMono-Medium.woff2) format("woff2");
+  src: url(assets/NKDuy_mono/fonts/webfonts/NKDuyMono-Medium.woff2)
+    format("woff2");
   font-weight: 500;
 }
 
 @font-face {
   font-family: NKDuyMono;
-  src: url(NKDuy_mono/fonts/webfonts/NKDuyMono-MediumItalic.woff2)
+  src: url(assets/NKDuy_mono/fonts/webfonts/NKDuyMono-MediumItalic.woff2)
     format("woff2");
   font-style: italic;
   font-weight: 500;
@@ -626,19 +633,21 @@ template {
 
 @font-face {
   font-family: NKDuyMono;
-  src: url(NKDuy_mono/fonts/webfonts/NKDuyMono-Regular.woff2) format("woff2");
+  src: url(assets/NKDuy_mono/fonts/webfonts/NKDuyMono-Regular.woff2)
+    format("woff2");
   font-weight: 400;
 }
 
 @font-face {
   font-family: NKDuyMono;
-  src: url(NKDuy_mono/fonts/webfonts/NKDuyMono-SemiBold.woff2) format("woff2");
+  src: url(assets/NKDuy_mono/fonts/webfonts/NKDuyMono-SemiBold.woff2)
+    format("woff2");
   font-weight: 600;
 }
 
 @font-face {
   font-family: NKDuyMono;
-  src: url(NKDuy_mono/fonts/webfonts/NKDuyMono-SemiBoldItalic.woff2)
+  src: url(assets/NKDuy_mono/fonts/webfonts/NKDuyMono-SemiBoldItalic.woff2)
     format("woff2");
   font-style: italic;
   font-weight: 600;
@@ -646,13 +655,15 @@ template {
 
 @font-face {
   font-family: NKDuyMono;
-  src: url(NKDuy_mono/fonts/webfonts/NKDuyMono-Thin.woff2) format("woff2");
+  src: url(assets/NKDuy_mono/fonts/webfonts/NKDuyMono-Thin.woff2)
+    format("woff2");
   font-weight: 100;
 }
 
 @font-face {
   font-family: NKDuyMono;
-  src: url(NKDuy_mono/fonts/webfonts/NKDuyMono-ThinItalic.woff2) format("woff2");
+  src: url(assets/NKDuy_mono/fonts/webfonts/NKDuyMono-ThinItalic.woff2)
+    format("woff2");
   font-style: italic;
   font-weight: 100;
 }
