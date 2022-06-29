@@ -7,7 +7,7 @@
         "start": "ewibs watch ./website.ewibs"
     },
     "devDependencies": {
-        "@ewibs/assembly": "^0.2.6",
-        "@ewibs/cli": "^0.1.4"
+        "@ewibs/assembly": "^0.2.8",
+        "@ewibs/cli": "^0.1.5"
     }
 }
