@@ -51,6 +51,53 @@ export const body: ComponentBody = {
     { ref: "title", io: { inputs: {} }, children: [] },
     {
       tagName: "div",
+      children: [
+        {
+          tagName: "img",
+          attributes: { src: "assets://screenshot.png" },
+          styles: {
+            base: {
+              alignment: { type: "flex" },
+              spacings: {
+                size: { width: "50%" },
+                margin: { right: "auto", left: "auto" },
+              },
+            },
+          },
+          text: "",
+          children: [],
+        },
+      ],
+      text: "This is what the app looks like:",
+      styles: {
+        base: {
+          text: {
+            lineHeight: "3",
+            verticalAlign: "top",
+            fontFamily: "arial",
+            fontWeight: "700",
+            textAlign: "right",
+          },
+          alignment: { type: "block", inline: true },
+        },
+        mediaQueries: [
+          {
+            features: [{ feature: "width", max: "1024px" }],
+            styles: {
+              text: { color: "green" },
+              alignment: {
+                type: "inline",
+                inline: true,
+                rowGap: "123",
+                columnGap: "3131",
+              },
+            },
+          },
+        ],
+      },
+    },
+    {
+      tagName: "div",
       text: "Test #1",
       children: [
         {
