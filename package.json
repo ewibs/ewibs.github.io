@@ -8,6 +8,6 @@
     },
     "devDependencies": {
         "@ewibs/assembly": "^0.2.13",
-        "@ewibs/cli": "^0.1.6"
+        "@ewibs/cli": "^0.1.8"
     }
 }
