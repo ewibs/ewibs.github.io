@@ -48,7 +48,11 @@ export const body: ComponentBody = {
   text: "",
   children: [
     { ref: "navigation", io: { inputs: {} } },
-    { ref: "title", io: { inputs: {} }, children: [] },
+    {
+      ref: "title",
+      io: { inputs: { title: "Some cool slogan i guess" } },
+      children: [],
+    },
     {
       tagName: "div",
       children: [
@@ -57,7 +61,7 @@ export const body: ComponentBody = {
           attributes: { src: "assets://screenshot.png" },
           styles: {
             base: {
-              alignment: { type: "flex" },
+              alignment: { type: "flex", justifyContent: "center" },
               spacings: {
                 size: { width: "50%" },
                 margin: { right: "auto", left: "auto" },
@@ -73,10 +77,11 @@ export const body: ComponentBody = {
         base: {
           text: {
             lineHeight: "3",
-            verticalAlign: "top",
+            verticalAlign: "middle",
             fontFamily: "arial",
             fontWeight: "700",
-            textAlign: "right",
+            textAlign: "left",
+            color: "blue",
           },
           alignment: { type: "block", inline: true },
         },
@@ -84,7 +89,7 @@ export const body: ComponentBody = {
           {
             features: [{ feature: "width", max: "1024px" }],
             styles: {
-              text: { color: "green" },
+              text: { color: "" },
               alignment: {
                 type: "inline",
                 inline: true,
@@ -97,8 +102,12 @@ export const body: ComponentBody = {
       },
     },
     {
+      ref: "title",
+      io: { inputs: { title: "Look at all those cool features:" } },
+    },
+    {
       tagName: "div",
-      text: "Test #1",
+      text: "This shall be a text and short description of the ewibs platform",
       children: [
         {
           tagName: "p",
