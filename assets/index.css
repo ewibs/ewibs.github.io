@@ -49,16 +49,16 @@ html {
 
 .landing > div:nth-child(3) {
   line-height: 3;
-  vertical-align: top;
+  vertical-align: middle;
   font-family: arial;
   font-weight: 700;
-  text-align: right;
+  text-align: left;
+  color: blue;
   display: inline-block;
 }
 
 @media (max-width: 1024px) {
   .landing > div:nth-child(3) {
-    color: green;
     display: inline;
     row-gap: 123;
     column-gap: 3131;
@@ -67,11 +67,12 @@ html {
 
 .landing > div:nth-child(3) > img:nth-child(1) {
   display: flex;
+  justify-content: center;
   width: 50%;
   margin: 0 auto 0 auto;
 }
 
-.landing > div:nth-child(4) {
+.landing > div:nth-child(5) {
   background-color: red;
   color: black;
   border-top-right-radius: 0.5rem;
@@ -82,13 +83,13 @@ html {
   flex-direction: column;
 }
 
-.landing > div:nth-child(4) > p:nth-child(1) {
+.landing > div:nth-child(5) > p:nth-child(1) {
   color: green;
   line-height: 2;
   text-align: right;
 }
 
-.landing > div:nth-child(4) > div:nth-child(2) {
+.landing > div:nth-child(5) > div:nth-child(2) {
   line-height: 3;
   vertical-align: top;
   font-family: arial;
@@ -97,7 +98,7 @@ html {
 }
 
 @media (max-width: 1024px) {
-  .landing > div:nth-child(4) > div:nth-child(2) {
+  .landing > div:nth-child(5) > div:nth-child(2) {
     color: green;
     display: inline;
     row-gap: 123;
@@ -106,12 +107,12 @@ html {
 }
 
 @media (min-width: 756px) {
-  .landing > div:nth-child(4) > br:nth-child(4) {
+  .landing > div:nth-child(5) > br:nth-child(4) {
     display: block;
   }
 }
 
-.landing > div:nth-child(4) > p:nth-child(5) {
+.landing > div:nth-child(5) > p:nth-child(5) {
   color: purple;
 }
 
