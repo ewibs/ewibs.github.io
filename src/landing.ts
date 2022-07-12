@@ -54,6 +54,40 @@ export const body: ComponentBody = {
       children: [],
     },
     {
+      tagName: "p",
+      children: [
+        {
+          tagName: "a",
+          text: "Check out the release notes",
+          attributes: {
+            href: "https://github.com/ewibs/.github/releases/download/v0.0.1-alpha/ewibs-darwin-x64-0.0.1.zip",
+          },
+          styles: { base: { text: { fontWeight: "100", color: "white" } } },
+        },
+        {
+          tagName: "span",
+          text: " or ",
+          styles: {
+            base: { spacings: { margin: { right: "1em", left: "1em" } } },
+          },
+        },
+        {
+          tagName: "a",
+          text: "Download the early alpha app (caution its buggy)",
+          attributes: {
+            href: "https://github.com/ewibs/.github/releases/download/v0.0.1-alpha/ewibs-darwin-x64-0.0.1.zip",
+          },
+          styles: {
+            base: {
+              spacings: { padding: { left: "5px" } },
+              text: { color: "white", fontWeight: "100" },
+            },
+          },
+        },
+      ],
+      styles: { base: { alignment: { type: "flex" } } },
+    },
+    {
       tagName: "div",
       children: [
         {

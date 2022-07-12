@@ -19,6 +19,7 @@ export const body: ComponentBody = {
           styles: { base: { spacings: { margin: {} } } },
         },
       ],
+      styles: { base: { text: { textAlign: "right" } } },
     },
   ],
   tagName: "footer",
