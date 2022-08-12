@@ -108,7 +108,7 @@ html {
   text-align: right;
 }
 
-.landing > div:nth-child(6) > div:nth-child(2) {
+.landing > div:nth-child(6) > div:nth-child(3) {
   line-height: 3;
   vertical-align: top;
   font-family: arial;
@@ -117,7 +117,7 @@ html {
 }
 
 @media (max-width: 1024px) {
-  .landing > div:nth-child(6) > div:nth-child(2) {
+  .landing > div:nth-child(6) > div:nth-child(3) {
     color: green;
     display: inline;
     row-gap: 123;
