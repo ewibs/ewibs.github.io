@@ -58,7 +58,7 @@ export const body: ComponentBody = {
       children: [
         {
           tagName: "a",
-          text: "Check out the release notes",
+          text: "Checkooo out the release notes",
           attributes: {
             href: "https://github.com/ewibs/.github/releases/download/v0.0.1-alpha/ewibs-darwin-x64-0.0.1.zip",
           },
@@ -75,7 +75,7 @@ export const body: ComponentBody = {
           tagName: "a",
           text: "Download the early alpha app (caution its buggy)",
           attributes: {
-            href: "https://github.com/ewibs/.github/releases/download/v0.0.1-alpha/ewibs-darwin-x64-0.0.1.zip",
+            href: "https://github.com/ewibs/.github/releases/download/v0.0.1-alpha/ewibs-darwin-x64-0.0.2.zip",
           },
           styles: {
             base: {
@@ -152,6 +152,7 @@ export const body: ComponentBody = {
           },
           text: "Test",
         },
+        { tagName: "hr", text: "", children: [] },
         {
           tagName: "div",
           text: "Test #3",
@@ -182,7 +183,6 @@ export const body: ComponentBody = {
           },
           children: [],
         },
-        { tagName: "hr", text: "", children: [] },
         {
           tagName: "br",
           children: [],
