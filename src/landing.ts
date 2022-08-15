@@ -58,9 +58,9 @@ export const body: ComponentBody = {
       children: [
         {
           tagName: "a",
-          text: "Checkooo out the release notes",
+          text: "Checkout out the release notes",
           attributes: {
-            href: "https://github.com/ewibs/.github/releases/download/v0.0.1-alpha/ewibs-darwin-x64-0.0.1.zip",
+            href: "https://github.com/ewibs/.github/releases/v0.0.3-alpha",
           },
           styles: { base: { text: { fontWeight: "100", color: "white" } } },
         },
@@ -75,7 +75,7 @@ export const body: ComponentBody = {
           tagName: "a",
           text: "Download the early alpha app (caution its buggy)",
           attributes: {
-            href: "https://github.com/ewibs/.github/releases/download/v0.0.1-alpha/ewibs-darwin-x64-0.0.2.zip",
+            href: "https://github.com/ewibs/.github/releases/download/v0.0.3-alpha/ewibs-darwin-x64.zip",
           },
           styles: {
             base: {
