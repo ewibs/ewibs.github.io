@@ -48,11 +48,7 @@ export const body: ComponentBody = {
   text: "",
   children: [
     { ref: "navigation", io: { inputs: {} } },
-    {
-      ref: "title",
-      io: { inputs: { title: "Some cool slogan i guess" } },
-      children: [],
-    },
+    { ref: "title", io: { inputs: { title: "Simon" } }, children: [] },
     {
       tagName: "p",
       children: [
